@@ -1,5 +1,6 @@
 .DS_Store
 .gitignore
+grimoire.nyxmare.world
 node_modules
 public
 prof
@@ -9,3 +10,4 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+package-lock.json
